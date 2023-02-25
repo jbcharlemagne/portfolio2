@@ -1,6 +1,6 @@
-body {
+/* body {
     overflow-x: hidden;
-}
+} */
 
 /* COULEUR DU SITE */
 
@@ -38,4 +38,14 @@ h3 {
 
 .buttonTopWhite {
     color: white;
+}
+
+@media only screen and (max-width: 400px) {
+    h2 {
+        font-size: 4em;
+    }
+    h3 {
+        font-size: 2em;
+    }
+ 
 }
