@@ -24,7 +24,7 @@ body div , img, p , a , h2 , .contact , .parcours {
 }
 
 h2 {
-    font-size: 7em;
+    font-size: em;
 }
 
 h3 {
@@ -42,10 +42,9 @@ h3 {
 
 @media only screen and (max-width: 400px) {
     h2 {
-        font-size: 4em;
+        font-size: 3em;
     }
     h3 {
         font-size: 2em;
     }
- 
 }
