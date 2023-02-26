@@ -1,6 +1,6 @@
-body {
+/* body {
     overflow-x: hidden;
-}
+} */
 
 /* COULEUR DU SITE */
 
@@ -32,8 +32,9 @@ h3 {
 }
 
 .icons {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
+    margin-right: 3%;
 }
 
 .buttonTopWhite {
