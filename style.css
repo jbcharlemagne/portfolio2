@@ -31,6 +31,10 @@ h3 {
     font-size: 3em;
 }
 
+p {
+    font-weight: 400;
+}
+
 .icons {
     width: 20px;
     height: 20px;
